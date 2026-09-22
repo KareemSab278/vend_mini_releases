@@ -1,6 +1,6 @@
     {
-        "version": "0.1.6",
+        "version": "0.1.7",
         "release_date": "2026-09-22",
-        "download_url": "https://github.com/KareemSab278/vend_mini_releases/blob/main/RELEASE/vend_mini_0.1.6_arm64.deb",
-        "notes": "Added Update Support"
+        "download_url": "https://github.com/KareemSab278/vend_mini_releases/blob/main/RELEASE/vend_mini_0.1.7_arm64.deb",
+        "notes": "Admins can now upload screensaver images"
     }
