@@ -1,6 +1,6 @@
     {
-        "version": "0.1.8",
+        "version": "0.1.9",
         "release_date": "2026-09-24",
-        "download_url": "https://github.com/KareemSab278/vend_mini_releases/blob/main/RELEASE/vend_mini_0.1.8_arm64.deb",
-        "notes": "stability improvements"
+        "download_url": "https://github.com/KareemSab278/vend_mini_releases/blob/main/RELEASE/vend_mini_0.1.9_arm64.deb",
+        "notes": "user interface and customizability improvements - final touches"
     }
