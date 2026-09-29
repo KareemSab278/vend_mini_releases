@@ -1,6 +1,6 @@
-    {
-        "version": "0.2.0",
-        "release_date": "2026-09-28",
-        "download_url": "https://github.com/KareemSab278/vend_mini_releases/blob/main/RELEASE/vend_mini_0.2.0_arm64.deb",
-        "notes": "added led rgb feature integration - fixed nfc pay bug"
-    }
+{
+    "version": "0.2.1",
+    "release_date": "2026-09-29",
+    "download_url": "https://github.com/KareemSab278/vend_mini_releases/blob/main/RELEASE/vend_mini_0.2.1_arm64.deb",
+    "notes": "improved led control"
+}
