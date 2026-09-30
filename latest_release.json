@@ -1,6 +1,6 @@
 {
     "version": "0.2.2",
-    "release_date": "2026-09-29",
+    "release_date": "2026-09-30",
     "download_url": "https://github.com/KareemSab278/vend_mini_releases/blob/main/RELEASE/vend_mini_0.2.2_arm64.deb",
-    "notes": "fixed pay flow bugs and door wait bugs"
+    "notes": "bug fixes with led indicators"
 }
