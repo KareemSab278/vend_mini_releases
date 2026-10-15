@@ -1,6 +1,6 @@
 {
-    "version": "0.2.2",
-    "release_date": "2026-09-30",
-    "download_url": "https://github.com/KareemSab278/vend_mini_releases/blob/main/RELEASE/vend_mini_0.2.2_arm64.deb",
-    "notes": "bug fixes with led indicators"
+    "version": "0.2.3",
+    "release_date": "2026-10-15",
+    "download_url": "https://github.com/KareemSab278/vend_mini_releases/blob/main/RELEASE/vend_mini_0.2.3_arm64.deb",
+    "notes": "added new unstable feature: can counting functionality for prepaid - still no prepaid feature in card reader impl yet."
 }
