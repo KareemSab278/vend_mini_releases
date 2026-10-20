@@ -2,5 +2,5 @@
     "version": "0.2.5",
     "release_date": "2026-10-20",
     "download_url": "https://github.com/KareemSab278/vend_mini_releases/blob/main/RELEASE/vend_mini_0.2.5_arm64.deb",
-    "notes": "security improvements"
+    "notes": "security improvements and added virtual keyboard"
 }
